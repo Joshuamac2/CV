@@ -1,5 +1,6 @@
 <h1 align=center> Joshua Macleod </h1>
------------
+
+---
 Demonstrated working knowledge in object-oriented programming; developing, debugging, Test driven and web development/architectural methodologies. Excels in both self-directed study and Agile environment to improve or correct performance based on client goals. Strong decision maker, and creative designer with the ability to learn new languages under pressure and at pace. MSc graduate along with recently graduating from a highly competitive 4-month coding bootcamp with Makers Academy. In summary, I am excited at the prospect of being able to contribute to the world of software development and further develop my coding skills.
 
 ### Projects
@@ -33,7 +34,7 @@ Demonstrated working knowledge in object-oriented programming; developing, debug
 - Accounting, Chemistry, Algebra, English (A*, A*, A, A)
 ##### A Levels Intermediate Certificate:
 - Maths, English, Physics, History (A*, A*, A, B)
-#####GCSE General Certificate:
+##### GCSE General Certificate:
 - 2A*s, 3As and 2Bs
 
 ### Skills
