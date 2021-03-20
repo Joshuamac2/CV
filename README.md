@@ -1,15 +1,16 @@
 <h1 align=center> Joshua Macleod </h1>
 
 ---
-Demonstrated working knowledge in object-oriented programming; developing, debugging, Test driven and web development/architectural methodologies. Excels in both self-directed study and Agile environment to improve or correct performance based on client goals. Strong decision maker, and creative designer with the ability to learn new languages under pressure and at pace. MSc graduate along with recently graduating from a highly competitive 4-month coding bootcamp with Makers Academy. In summary, I am excited at the prospect of being able to contribute to the world of software development and further develop my coding skills.
+MSc graduate, along with recently graduating from a highly competitive 4-month coding bootcamp with Makers Academy. Strong decision maker and creative designer, with the ability to learn new languages under pressure and at pace. A demonstrated working knowledge in test driven object-oriented programming, developing, debugging, and web development/architectural methodologies. Excels in both self-directed study and in Agile environments, aimed at performance improvement or correction, based on client goals. In summary, I am excited at the prospect of being able to contribute to the world of software development and further develop my coding skills.
 
 ### Projects
 ---
 | Name | Description | Tech/Tools |
 | :------: | ----------- | ------- |
 |**Why Leave?**| An interactive global map of refugee movements, sharing what's going on in specific countries in terms of human rights, abuses and why people are leaving their home countries. [live here](https://why-leave.vercel.app/)  <br><br> [Frontend repo](https://github.com/Joshuamac2/Why_Leave_Front_End), [Backend repo](https://github.com/Joshuamac2/Why-leave-backend)| <br>React, Cypress, Ruby on Rails, Rspec, CSS and Bootstrap<br><br> Deployment Tools: <br>Heroku, Vercel, Travis CI  |
+|**Portolio Website**| My personal website.  [Here](https://joshmacleod.vercel.app) | <br>React, Vercel|</span>
 |**Chitter**| A twitter clone.  [Github](https://github.com/Joshuamac2/Chitter) | <br>Ruby, Sinatra, Rspec, Capybara |</span>
-|**Bank -tech-test**| Using an IDE, the user can make transactions, then print out bank statements. [Github](https://github.com/Joshuamac2/Bank-tech-test) | Ruby, Rspec, Simplecov   |</span>
+|**The News Lab (Not complete)**| The News Lab will be a forum where the top 10 articles from the most popular news outlets are highlighted. Readers will be invited to engage in debate with other readers, and who don't necessarily share their world view or political persuasion. <br><br> [Frontend repo](https://github.com/Joshuamac2/news-front), [Backend repo](https://github.com/Joshuamac2/news-front) | <br>MERN stack|</span>
 
 
 
@@ -17,13 +18,13 @@ Demonstrated working knowledge in object-oriented programming; developing, debug
 ### Education
 -----------
 ##### Makers Academy | September 2020 - December 2020
-- Highly selective 4-month intensive coding bootcamp
+- Pair Programming and Agile practices
 - Test driven development focused - Object oriented programming & software design
 - Full stack web development - Building MVC framework pattern
 
 ##### Tech stack:
 - Ruby (Rails, Rspec, Capybara, Sinatra),
-- JavaScript (React, jQuery, Jasmine, Cyprus)
+- JavaScript (React, Node.js, jQuery, Bootstrap, Jasmine, Cyprus)
 - HTML, CSS, Github, PostgresSQL, Travis CI, Heroku, Vercel
 
 ##### University of Nottingham | 2015 - 2019
@@ -56,7 +57,11 @@ Demonstrated working knowledge in object-oriented programming; developing, debug
 
 ### Other Experiences and Interests
 -----------
-- Barista - Pier One Cafe | 2017 - 2019
-- Staff supervisor - Cafe Nero | 2019 - 2020
-- Student Volunteer Assistant - Plymouth NHS Trust, Derriford Hospital | 2014 - 2015
-- Played basketball at a semi-professional level, surfing, and live music
+- Staff supervisor - Cafe Nero | 2019 - 2020: Led staff to deliver friendly and efficient service.
+- Barista - Pier One Cafe | 2017 and 2019: Led coffee tasting sessions, up-skilling and training staff.
+- Barista/Barman in Bondi Beach Trattoria | June - Oct 2018
+- Student Volunteer Assistant - Derriford Hospital | 2013 - 2015: Assisted patients with little independent mobility, including patient cleansing and sanitation, equipping me with first-hand knowledge of the processes and systems at the frontline of the NHS.
+- Played basketball at a semi-professional level and represented the South West region in European held basketball tournaments.
+- I love to travel and the location is usually dictated by my addiction to surfing.
+- I love to play my guitar and which I find to be a great way of calming down at the end of a day.
+- I enjoy my coffee and especially love making it, a dream being that one day I might own a little coffee shack on the beach.
